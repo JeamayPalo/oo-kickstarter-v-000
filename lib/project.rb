@@ -6,4 +6,4 @@ class Project
     @backers = []
   end
 
-end 
+end
